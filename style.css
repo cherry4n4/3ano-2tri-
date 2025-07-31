@@ -7,7 +7,9 @@
     --fundo-texto: #f79400;
     --borda: #ffffff;
 }
-
+.zaeli{
+    width: 20%;
+}
 * {
     font-weight: 400;
 }
